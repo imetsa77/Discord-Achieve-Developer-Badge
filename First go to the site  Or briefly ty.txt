@@ -1,0 +1,18 @@
+First go to the site / Or briefly type discord developer portal into the search engine.
+https://discord.com/developers/docs/intro
+Click where it says application
+Click on the new application button at the top right.
+enter the application name and confirm
+Click on the button that says BOT on the page that appears.
+Go down slightly and find the button that says TOKEN and press RESET TOKEN and enter the password of your own Discord account.
+And copy the TOKEN
+Then type BOTGHOST in the search engine and log in to the site
+When you enter the site, click on the button that says CREATE BOT at the top left and enter the TOKEN you copied.
+Among the Buttons on the left on the page that appears, find the button that says ACHIEVE DEVELOPER BADGE and click it.
+Click on the button that says ENABLE
+And again, among the buttons on the left, find the button that says INVITE and click it, it usually stays on top.
+After clicking the button that says INVITE, add your bot to a server you created yourself.
+then enter Discord
+Type Obtain the Developer badge with /
+And enter the discord site where the command is written
+CONGRATULATIONS The badge will be given to you within 24 hours, but you must write the same command and go to the site that the command sent to you.
